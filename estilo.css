@@ -1,0 +1,19 @@
+.container{
+    border-style: double;
+    border-width: 4px;
+    min-height: 700px;
+    background-color: #BEC0A7;
+
+}
+.b1{
+    background-color: #577371 ;
+    font-family:'Source Sans Pro', sans-serif;
+    color: rgb(13, 13, 14);
+    font-size: 18px;
+    margin: 20px;
+}
+.p{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
